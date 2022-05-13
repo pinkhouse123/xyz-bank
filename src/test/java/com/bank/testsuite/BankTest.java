@@ -1,7 +1,6 @@
 package com.bank.testsuite;
 
 import com.bank.excelutility.pages.*;
-import com.bank.pages.*;
 import com.bank.testbase.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
